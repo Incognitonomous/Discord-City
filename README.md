@@ -16,3 +16,6 @@ A bot to make a visual representation of discord servers in the form of a mediva
 - replace svg output with html format
   - better hover over shape system, displaying nickname and pfp
   - server name displayed at the top
+
+# Credit
+big thanks to Greenfoot5, Fishbuilder, Ella and ItsKat for help with both the original project and the new one.
