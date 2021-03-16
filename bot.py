@@ -1,4 +1,4 @@
-import discordCityRewrite as city
+import discordCity as city
 import os
 
 import discord
